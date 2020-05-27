@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Display">
+  <grid id="27dc6" binding="Panel1" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="657b0" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="a478e" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="7446b" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="24a01" class="javax.swing.JLabel" binding="displayLabel">
+        <constraints/>
+        <properties>
+          <text value="Test"/>
+        </properties>
+      </component>
+      <component id="66d17" class="javax.swing.JButton" binding="displayButton">
+        <constraints/>
+        <properties>
+          <text value="&amp;Start"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
